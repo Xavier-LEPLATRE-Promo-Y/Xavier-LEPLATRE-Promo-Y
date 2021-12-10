@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Xavier-LEPLATRE-Promo-Y
+- 👋 Hi, I’m @Xavier-LEPLATRE
 - 👀 I’m interested in all new subjects
-- 🌱 I’m currently learning web developement at O'Clock school
+- 🌱 I’m currently learning web developement at O'Clock school to become a fullstack web-dev JS
 
 
 <!---
